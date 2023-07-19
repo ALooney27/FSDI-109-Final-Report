@@ -1,0 +1,14 @@
+.prod-cart {
+  display: flex;
+  height: 200px;
+  margin-bottom: 10px;
+  padding: 3px;
+  border: 2px solid #e6e6e6;
+  background-color: white;
+  justify-items: center;
+  border-radius: 6px;
+}
+
+label {
+  width: 100%;
+}
